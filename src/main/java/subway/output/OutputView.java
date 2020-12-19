@@ -10,7 +10,7 @@ import subway.repository.SectionRepository;
 public class OutputView {
     public static final String EQUALS_STATION_ERROR = "[ERROR] 출발역과 도착역이 동일합니다.";
     public static final String RESULT = "\n## 조회 결과";
-    public static final String RESULT_EXPRESS = "[INFO] ---\n";
+    public static final String RESULT_EXPRESS = "[INFO] ---";
     public static final String INFO = "[INFO] ";
     public static final String TOTAL_DISTANCE = "총 거리";
     public static final String TOTAL_TIME = "총 소요시간";
